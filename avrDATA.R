@@ -1,4 +1,3 @@
-##* Author: Ich Hung Ngo
 #' Author: Ich Hung Ngo
 #' Gmail: hung.ni96hn@gmail.com
 #' ***********************************
